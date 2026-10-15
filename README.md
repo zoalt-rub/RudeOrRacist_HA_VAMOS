@@ -7,4 +7,11 @@ The data used comes from the HateXplain Dataset (https://huggingface.co/datasets
 
 # Evaluation Results
 
+| Metric     | Validation Set      | Test Set     |
+| ------------- | ------------- | -------- |
+| Precision          | 0.68        | 0.67 |
+| Recall      | 0.69    | 0.68 |
+| F1 score        | 0.68         | 0.67  |
+
+
 # Abstract
